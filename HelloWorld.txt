@@ -1,0 +1,13 @@
+    object HelloWorld {
+   def main(args: Array[String]) {
+       
+       println("Hello World!")
+       
+      println("Enter your name:")
+       
+      var vNombre = scala.io.StdIn.readLine.toString
+       
+      println("Hello " + vNombre)
+        
+   }
+}
