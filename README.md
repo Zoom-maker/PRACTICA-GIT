@@ -8,7 +8,7 @@ Para poder descargar nuestro repositorio sigue los siguientes pasos:
 
 2- Selecciona la carpeta en donde lo quieres descargar, utilizando el codigo cd. Ejemplo: "cd Desktop" 
 
-3- Ingresa el siguiente codigo "git clone https://github.com/Zoom-maker/Practica-Git2.git" 
+3- Ingresa el siguiente codigo "git clone https://github.com/Zoom-maker/Practica-Git.git" 
 
 4- Una vez descargado el repositorio, entrar nuevamente a cmd y buscar la carpeta del repositorio
 
